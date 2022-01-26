@@ -1,0 +1,22 @@
+html{
+    color:wheat;
+    font-size: 5rem;
+}
+body{
+    background-color: black;
+}
+#name{
+    margin: 0 45%;
+}
+#main_img{
+    margin: 0 45%;
+}
+#characteristic{
+    margin: 0 17%;
+}
+#text{
+    margin: 0 5%;
+}
+#content{
+    max-width: 80rem;
+}
